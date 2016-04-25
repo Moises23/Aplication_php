@@ -1,0 +1,144 @@
+body
+{
+	color: #666;
+	background-color:#F0F0F0;
+	font-family: 'Roboto Condensed', sans-serif;
+
+}
+.container
+{
+	width: 800px;
+	min-height: 450px;
+	margin: auto;
+	padding: 20px;
+	background-color: #FFF;
+	border: solid 1px #CCC;
+}
+.center
+{
+	text-align: right;
+}
+.form input
+{
+	padding: 6px;
+}
+.footer
+{
+	font-size: 14px;
+	color: #ff6905;
+}
+#resultado
+{
+	min-height: 200px;
+}
+#formularios
+{
+    min-height: 400px;
+}
+.art{
+	margin-bottom: 10px;
+	background-color: #F1F1F1;
+	padding: 5px;
+}
+table
+{
+	width: 100%;
+}
+th,td
+{
+	 width: 25%;
+   text-align: left;
+   vertical-align: top;
+   border: 1px solid #000;
+   border-collapse: collapse;
+   padding: 0.3em;
+}
+.normal th, .normal td
+{
+	border: 2px solid #000;
+   
+}
+table tr:hover th
+{
+	background-color: #99FFCC;
+}
+table tr:hover td
+{
+	background-color: #FFFF66;
+}
+label
+{
+	display: block;
+	margin: .5em 0 0 0;
+
+}
+.boton 
+{
+  display: block;
+  margin: 1em 0;
+  padding: 1em;
+  border: 1px outset #04779B;
+  color: #FEFEFE;
+  background: #FBB351;
+  border-radius: 3px;
+  display: inline-block;
+  font: bold 12px/12px HelveticaNeue, Arial;
+}
+.boton:hover {
+  background: #0B5379;
+}
+.boton:active {
+  border: 1px inset #000;
+}
+
+div {
+  margin: 1em ;
+  padding: 0.5em;
+
+}
+ 
+input
+{
+	padding: 0.5em;
+}
+div label
+{
+   width: 20%;
+  float: left;
+  text-align: center;
+}
+input:focus
+{
+   border: 2px;
+   background: #EFF0EB;
+}
+#eliminar_opcion{
+
+	float: right;
+   width: 40%;
+  margin: 0 auto;
+}
+.guardar{
+	position: relative;
+  top: -43px;
+  left: 410px;
+}
+
+a { margin: 1em 0; float: left; clear: left; }
+a.enlace {
+  display: block;
+  margin: 1em 0;
+  padding: 1em;
+  border: 1px outset #04779B;
+  color: #FEFEFE;
+  background: #FBB351;
+  border-radius: 3px;
+  display: inline-block;
+  font: bold 12px/12px HelveticaNeue, Arial;
+}
+a.enlace:hover {
+  background: #0B5379;
+}
+a.enlace:active {
+  border: 1px inset #000;
+}

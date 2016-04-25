@@ -1,0 +1,63 @@
+.pacifico
+{
+	font-family: 'Pacifico', cursive;
+}
+.letra_tama
+{
+   font-size: 3em;
+}
+body
+{
+	font-family: 'Lato', sans-serif;
+}
+.verde
+{
+	color: #3B8D61;
+}
+.subtitulo-color
+{
+	color: #91BEAE;
+}
+a
+{
+	color: #FA6A31;
+	font-size: 2em;
+}
+.espacio
+{
+	margin-right: 2em;
+}
+img 
+{
+max-width: 100%;
+}
+.quitar-float
+{
+	float: none;
+}
+.espacio-arriba
+{
+	margin-top: 100px;
+}
+div label
+{
+	
+	float:none;
+	width: 8%;
+	
+}
+.div
+{
+	margin: 1em;
+
+}
+.formulario
+{
+	text-align: center;
+	padding: 2em;
+
+}
+.separar
+{
+	padding: 1em;
+}

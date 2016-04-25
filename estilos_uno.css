@@ -1,0 +1,33 @@
+a{
+	padding: 0px;
+	margin: 0px;
+}
+#header{
+	margin: auto;
+	width: 600px;
+}
+ul li{
+	list-style: none;
+	text-align: center;
+    margin: 0 10px 0 0;
+    display: inline-block;
+    text-align: center;
+    padding: 5px;
+} 
+.nav li a{
+
+    font-family: 'Roboto Condensed', sans-serif;
+	font-size: 24px;
+	color: #ff6905;
+	text-decoration: none;
+	;
+}
+.separa{
+	padding-top: 2em;
+}
+.separa_2{
+	padding-top: 2em;
+}
+.separa_3{
+	padding-top: 2em;
+}
